@@ -120,7 +120,7 @@ To achieve I have written function `path_fill` and uses cv2.polyfill() function.
 
 ####  link to my final video output.  Your pipeline should perform reasonably well on the entire project video (wobbly lines are ok but no catastrophic failures that would cause the car to drive off the road!).
 
-Here's a [link to my video result](https://youtu.be/X9RJ8_MS6HM)
+Here's a [link to my video result](https://www.youtube.com/watch?v=6yOxJta24jc)
 
 ---
 
